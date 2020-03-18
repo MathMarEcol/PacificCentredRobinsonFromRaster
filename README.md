@@ -1,4 +1,4 @@
-# A repo to plot a Pacific Centred Robinson Projection From a Raster
+# A repo to plot a Pacific-centred Robinson Projection from a Raster
 
 This code is for plotting IPCC-style Robinson projections centred on the dateline (standard for ocean-based outputs). 
 This is extremely problematic in R - raster, tmap, ggplot2 do it cleanly with a lot of data often missing. Often the projection simply fails. I spent a day or two trying to resolve this inside R before resorting to calling GDAL directly from inside R to do the job. 
