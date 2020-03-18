@@ -10,3 +10,4 @@ Note that:
   2 - The paths in both the function (GDAL path) and the example code are relative to this folder.   
   3 - I know that you could potentially use package gdalUtilities, but that requires some extra reading, and I found some initial GDAL script (https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-2-map-projections-gdalwarp-e05173bd710a) so just modified that for execution from within R.    
 
+Written by David Schoeman (USC)
